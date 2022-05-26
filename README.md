@@ -1,5 +1,8 @@
 # Movie-or-Show-Info
 
+Website created with React and redux integrated with IMDB API in backend 
+Website Deployed link : https://kotiswar-movie-and-show-info-website.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
